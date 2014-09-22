@@ -1,0 +1,5 @@
+{ "file": "test.json", "testbool": "True", "count": 5,
+    "alphabet": [ "a", "b", "c", "d" ], 
+    "doubles":  [.1, .3, .5]
+
+}

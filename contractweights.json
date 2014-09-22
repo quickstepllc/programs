@@ -1,0 +1,42 @@
+{"GEM5-GEM6Signals": ["SimpleMicroPriceSignalZTZ4", "SimpleMicroPriceSignal2_Year", "SimpleMicroPriceSignal3_Year" , "SimpleMicroPriceSignalZFZ4",  "SimpleMicroPriceSignal5_Year", "SimpleMicroPriceSignal7_Year", "SimpleMicroPriceSignalZNZ4", "SimpleMicroPriceSignal10_Year","SimpleMicroPriceSignalZBZ4", "SimpleMicroPriceSignal30_Year"], 
+"GEM5-GEM6Weights": [-0.263605, -0.279329, -0.335636, -0.360771, -0.335931, -0.356141, -0.370686, -0.181175, -0.334253, -0.296709],
+"GEM5-GEM6MeanTurnValue" : 0.2,
+
+"GEU5-GEU6Signals": ["SimpleMicroPriceSignalZTZ4", "SimpleMicroPriceSignal2_Year", "SimpleMicroPriceSignal3_Year" , "SimpleMicroPriceSignalZFZ4",  "SimpleMicroPriceSignal5_Year", "SimpleMicroPriceSignal7_Year", "SimpleMicroPriceSignalZNZ4", "SimpleMicroPriceSignal10_Year","SimpleMicroPriceSignalZBZ4", "SimpleMicroPriceSignal30_Year"], 
+"GEU5-GEU6Weights": [-0.294871, -0.222349, -0.335445, -0.357681, -0.352656, -0.0766417, -0.366503, -0.365139, -0.353062, -0.317188],
+"GEU5-GEMU6MeanTurnValue" : 0.2,
+
+"GEM5-GEM6Signals": ["SimpleMicroPriceSignalZTZ4", "SimpleMicroPriceSignal2_Year", "SimpleMicroPriceSignal3_Year" , "SimpleMicroPriceSignalZFZ4",  "SimpleMicroPriceSignal5_Year", "SimpleMicroPriceSignal7_Year", "SimpleMicroPriceSignalZNZ4", "SimpleMicroPriceSignal10_Year","SimpleMicroPriceSignalZBZ4", "SimpleMicroPriceSignal30_Year"], 
+"GEU5-GEU6Weights": [-0.259938, -0.280583, -0.337749, -0.360911, -0.335772, -0.355769, -0.370934, -0.181009, -0.334473, -0.296364],
+"GEU5-GEU6MeanTurnValue" : 0.2,
+
+"GEZ5-GEZ6Signals": ["SimpleMicroPriceSignalZTZ4", "SimpleMicroPriceSignal2_Year", "SimpleMicroPriceSignal3_Year" , "SimpleMicroPriceSignalZFZ4",  "SimpleMicroPriceSignal5_Year", "SimpleMicroPriceSignal7_Year", "SimpleMicroPriceSignalZNZ4", "SimpleMicroPriceSignal10_Year","SimpleMicroPriceSignalZBZ4", "SimpleMicroPriceSignal30_Year"], 
+"GEZ5-GEZ6Weights": [-0.244642, -0.160462, -0.289391, -0.364676, -0.361734, -0.23056, -0.377237, -0.379335, -0.351191, -0.322676],
+"GEZ5-GEZ6MeanTurnValue" : 0.2,
+
+"GEM5-GEH6Signals": ["SimpleMicroPriceSignalZTZ4", "SimpleMicroPriceSignal2_Year", "SimpleMicroPriceSignal3_Year" , "SimpleMicroPriceSignalZFZ4",  "SimpleMicroPriceSignal5_Year", "SimpleMicroPriceSignal7_Year", "SimpleMicroPriceSignalZNZ4", "SimpleMicroPriceSignal10_Year","SimpleMicroPriceSignalZBZ4", "SimpleMicroPriceSignal30_Year"], 
+"GEM5-GEH6Weights": [-0.269008, -0.270792, -0.310153, -0.350001, -0.357699, -0.185521, -0.356548, -0.358718, -0.339714, -0.319427],
+"GEM5-GEH6MeanTurnValue" : 0.2,
+
+"GEU5-GEM6Signals": ["SimpleMicroPriceSignalZTZ4", "SimpleMicroPriceSignal2_Year", "SimpleMicroPriceSignal3_Year" , "SimpleMicroPriceSignalZFZ4",  "SimpleMicroPriceSignal5_Year", "SimpleMicroPriceSignal7_Year", "SimpleMicroPriceSignalZNZ4", "SimpleMicroPriceSignal10_Year","SimpleMicroPriceSignalZBZ4", "SimpleMicroPriceSignal30_Year"], 
+"GEU5-GEM6Weights": [-0.266477, -0.264563, -0.313136, -0.340933, -0.333228, -0.322669, -0.347037, -0.34356, -0.327119, -0.289959],
+"GEU5-GEM6MeanTurnValue" : 0.2,
+
+"GEZ5-GEU66Signals": ["SimpleMicroPriceSignalZTZ4", "SimpleMicroPriceSignal2_Year", "SimpleMicroPriceSignal3_Year" , "SimpleMicroPriceSignalZFZ4",  "SimpleMicroPriceSignal5_Year", "SimpleMicroPriceSignal7_Year", "SimpleMicroPriceSignalZNZ4", "SimpleMicroPriceSignal10_Year","SimpleMicroPriceSignalZBZ4", "SimpleMicroPriceSignal30_Year"], 
+"GEZ5-GEU6Weights": [-0.263352, -0.263232, -0.283506, -0.325097, -0.34088, -0.352033, -0.342042, -0.338923, -0.326774, -0.31068],
+"GEZ5-GEU6MeanTurnValue" : 0.2,
+
+"GEH6-GEZ65ignals": ["SimpleMicroPriceSignalZTZ4", "SimpleMicroPriceSignal2_Year", "SimpleMicroPriceSignal3_Year" , "SimpleMicroPriceSignalZFZ4",  "SimpleMicroPriceSignal5_Year", "SimpleMicroPriceSignal7_Year", "SimpleMicroPriceSignalZNZ4", "SimpleMicroPriceSignal10_Year","SimpleMicroPriceSignalZBZ4", "SimpleMicroPriceSignal30_Year"], 
+"GEH6-GEZ6Weights": [-0.275978, -0.254282, -0.3071, -0.299366, -0.348189, -0.294736, -0.360268, -0.359358, -0.337579, -0.307002],
+"GEH6-GEZ6MeanTurnValue" : 0.2
+
+
+
+
+}
+
+
+
+
+
+
