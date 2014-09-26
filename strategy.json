@@ -1,11 +1,6 @@
-{"TreasuryPricingSignals": ["SimpleMicroPriceSignalZTU4", "SimpleMicroPriceSignal2_Year", "SimpleMicroPriceSignal3_Year" , "SimpleMicroPriceSignalZFU4",  
-"SimpleMicroPriceSignal5_Year", "SimpleMicroPriceSignal7_Year", 
-"SimpleMicroPriceSignalZNU4", "SimpleMicroPriceSignal10_Year", 
-"SimpleMicroPriceSignalZBU4", "SimpleMicroPriceSignal30_Year"], 
-
-"GEM5-GEM6Coefficients": [-0.259938, -0.280583, -0.337749, -0.360911, -0.335772, -0.355769, -0.370934, -0.181009, -0.334473, -0.296364]
-
-
+{
+"treasuryExpirationsToHandle" : ["U4", "Z4"], 
+"treasuryExpirationsToProcess" : ["Z4"]
 
 }
 
