@@ -1,2 +1,4 @@
-{ "isRealTime": "True", "useHistoricalManager": "False" , "useCompressedHistoricalManager" : "True",  "inputFile": "E:\\marketdata\\20140907205537realtimequotes.txt"}
 
+{ "isRealTime": "False", "useHistoricalManager": "True", "useCompressedHistoricalManager": "False", "inputFile": "E:\\marketdata\\20140907205537realtimequotes.txt", "maxPointsPerPlot": 3000, "sufficientlyChangedMultiplierHistorical": 1, "sufficentlyChangedMultiplierRealtime": 1,
+  "minTimeToRedrawHistorical":  60000, "maxTimeBetweenRedrawsHistorical":  300000, "minTimeToRedrawRealTime":    1000,  "maxTimeBetweenRedrawsRealTime":  5000
+}
