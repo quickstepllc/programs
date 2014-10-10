@@ -1,2 +1,2 @@
-{ "isRealTime": "True", "useHistoricalManager": "True" , "inputFile": "D:\\quotedata\\todayquotes.txt"}
+{ "isRealTime": "True", "useHistoricalManager": "False" , "inputFile": "D:\\quotedata\\todayquotes.txt"}
 
