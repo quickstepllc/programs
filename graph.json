@@ -1,4 +1,5 @@
+
 { "isRealTime": "True", "useHistoricalManager": "False", "useCompressedHistoricalManager": "False", "inputFile": "D:\\quotedata\\todayquotes.txt", "maxPointsPerPlot": 3000, "sufficientlyChangedMultiplierHistorical": 1, "sufficentlyChangedMultiplierRealtime": 1,
   "minTimeToRedrawHistorical":  60000, "maxTimeBetweenRedrawsHistorical":  300000, "minTimeToRedrawRealTime":    3000,  "maxTimeBetweenRedrawsRealTime":  10000
-}
 
+}

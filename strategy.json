@@ -1,5 +1,5 @@
 {
-"treasuryExpirationsToHandle" : ["U4", "Z4"],
+"treasuryExpirationsToHandle" : ["Z4"],
     "treasuryExpirationsToProcess": [ "Z4" ], 
     "frontEurodollar":  "GEZ4"
 
