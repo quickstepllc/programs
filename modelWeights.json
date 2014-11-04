@@ -1,7 +1,7 @@
 {
     "treasuryEV1GEU5-GEU6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -26,7 +26,7 @@
     "treasuryEV1GEU5-GEU6MeanTurnValue": 0.105402,
     "treasuryEV1GEH5-GEH6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -51,7 +51,7 @@
     "treasuryEV1GEH5-GEH6MeanTurnValue": 0.100511,
     "treasuryEV1GEM5-GEM6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -76,7 +76,7 @@
     "treasuryEV1GEM5-GEM6MeanTurnValue": 0.0929048,
     "treasuryEV1GEM5-GEZ5Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -101,7 +101,7 @@
     "treasuryEV1GEM5-GEZ5MeanTurnValue": 0.176977,
     "treasuryEV1GEM5-GEH6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -126,7 +126,7 @@
     "treasuryEV1GEM5-GEH6MeanTurnValue": 0.114647,
     "treasuryEV1GEU5-GEM6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -151,7 +151,7 @@
     "treasuryEV1GEU5-GEM6MeanTurnValue": 0.11856,
     "treasuryEV1GEZ6-GEZ7Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -176,7 +176,7 @@
     "treasuryEV1GEZ6-GEZ7MeanTurnValue": 0.105871,
     "treasuryEV1GEH7-GEH8Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -201,7 +201,7 @@
     "treasuryEV1GEH7-GEH8MeanTurnValue": 0.0970598,
     "treasuryEV1GEZ5-GEZ6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -226,7 +226,7 @@
     "treasuryEV1GEZ5-GEZ6MeanTurnValue": 0.124104,
     "treasuryEV1GEH6-GEH7Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -251,7 +251,7 @@
     "treasuryEV1GEH6-GEH7MeanTurnValue": 0.120707,
     "treasuryEV1GEU5-GEH6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -276,7 +276,7 @@
     "treasuryEV1GEU5-GEH6MeanTurnValue": 0.209256,
     "treasuryEV1GEZ4-GEZ5Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -301,7 +301,7 @@
     "treasuryEV1GEZ4-GEZ5MeanTurnValue": 0.102272,
     "treasuryEV1GEZ4-GEU5Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -326,7 +326,7 @@
     "treasuryEV1GEZ4-GEU5MeanTurnValue": 0.10942,
     "treasuryEV1GEH5-GEZ5Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -351,7 +351,7 @@
     "treasuryEV1GEH5-GEZ5MeanTurnValue": 0.114109,
     "treasuryEV1GEZ5-GEM6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -376,7 +376,7 @@
     "treasuryEV1GEZ5-GEM6MeanTurnValue": 0.217935,
     "treasuryEV1GEM6-GEM7Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -401,7 +401,7 @@
     "treasuryEV1GEM6-GEM7MeanTurnValue": 0.130069,
     "treasuryEV1GEZ5-GEU6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -426,7 +426,7 @@
     "treasuryEV1GEZ5-GEU6MeanTurnValue": 0.136672,
     "treasuryEV1GEH8-GEH9Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -451,7 +451,7 @@
     "treasuryEV1GEH8-GEH9MeanTurnValue": -0.00815352,
     "treasuryEV1GEZ7-GEZ8Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -476,7 +476,7 @@
     "treasuryEV1GEZ7-GEZ8MeanTurnValue": -0.0117543,
     "treasuryEV1GEZ4-GEU5Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -501,7 +501,7 @@
     "treasuryEV1GEZ4-GEU5MeanTurnValue": 0.116952,
     "treasuryEV1GEH5-GEU5Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -526,7 +526,7 @@
     "treasuryEV1GEH5-GEU5MeanTurnValue": 0.200027,
     "treasuryEV1GEH6-GEZ6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -551,7 +551,7 @@
     "treasuryEV1GEH6-GEZ6MeanTurnValue": 0.138656,
     "treasuryEV1GEU6-GEU7Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -576,7 +576,7 @@
     "treasuryEV1GEU6-GEU7MeanTurnValue": 0.143018,
     "treasuryEV1GEH6-GEU6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -601,7 +601,7 @@
     "treasuryEV1GEH6-GEU6MeanTurnValue": 0.267007,
     "treasuryEV1GEM8-GEH9Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -626,7 +626,7 @@
     "treasuryEV1GEM8-GEH9MeanTurnValue": 0.0161851,
     "treasuryEV1GEZ4-GEM5Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -651,7 +651,7 @@
     "treasuryEV1GEZ4-GEM5MeanTurnValue": 0.215128,
     "treasuryEV1GEZ6-GEU7Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -676,7 +676,7 @@
     "treasuryEV1GEZ6-GEU7MeanTurnValue": 0.127378,
     "treasuryEV1GEZ4-GEM5Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -701,7 +701,7 @@
     "treasuryEV1GEZ4-GEM5MeanTurnValue": 0.121642,
     "treasuryEV1GEU7-GEU8Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -726,7 +726,7 @@
     "treasuryEV1GEU7-GEU8MeanTurnValue": 0.0105623,
     "treasuryEV1GEM7-GEM8Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -751,7 +751,7 @@
     "treasuryEV1GEM7-GEM8MeanTurnValue": 0.0483193,
     "treasuryEV1GEM6-GEZ6Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -776,7 +776,7 @@
     "treasuryEV1GEM6-GEZ6MeanTurnValue": 0.262165,
     "treasuryEV1GEZ4-GEH5Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -801,7 +801,7 @@
     "treasuryEV1GEZ4-GEH5MeanTurnValue": 0.197822,
     "treasuryEV1GEU6-GEM7Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -826,7 +826,7 @@
     "treasuryEV1GEU6-GEM7MeanTurnValue": 0.173342,
     "treasuryEV1GEH7-GEZ7Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",
@@ -851,7 +851,7 @@
     "treasuryEV1GEH7-GEZ7MeanTurnValue": 0.100643,
     "treasuryEV1GEM6-GEH7Signals": [
         "SimpleMicroPriceSignalZTZ4",
-        "SimpleMicroPriceSignal2_Year",
+        "SimpleMicroPriceSignalusg_02Y",
         "SimpleMicroPriceSignal3_Year",
         "SimpleMicroPriceSignalZFZ4",
         "SimpleMicroPriceSignal5_Year",

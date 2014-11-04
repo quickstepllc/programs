@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-{ "isRealTime": "True", "useHistoricalManager": "False" , "inputFile": "D:\\quotedata\\todayquotes.txt"}
-=======
+
 { "isRealTime": "True", "useHistoricalManager": "False" , "inputFile": "D:\\quotedata\\source2.txt"}
 
->>>>>>> 20d9323bb669863fb8c2228e923c133e0a00f74d
 
