@@ -1,0 +1,610 @@
+{
+    "treasuryCurveShortEV1GEH5-GEH6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEH5-GEH6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEH5-GEH6MeanTurnValue": 0.0462669,
+    "treasuryCurveShortEV1GEM5-GEM6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEM5-GEM6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEM5-GEM6MeanTurnValue": 0.0462892,
+    "treasuryCurveShortEV1GEZ4-GEU5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEZ4-GEU5Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEZ4-GEU5MeanTurnValue": 0.0564452,
+    "treasuryCurveShortEV1GEZ4-GEZ5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEZ4-GEZ5Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEZ4-GEZ5MeanTurnValue": 0.0475614,
+    "treasuryCurveShortEV1GEH5-GEU5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEH5-GEU5Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEH5-GEU5MeanTurnValue": 0.0780151,
+    "treasuryCurveShortEV1GEM5-GEH6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEM5-GEH6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEM5-GEH6MeanTurnValue": 0.0552132,
+    "treasuryCurveShortEV1GEU5-GEH6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEU5-GEH6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEU5-GEH6MeanTurnValue": 0.0961191,
+    "treasuryCurveShortEV1GEU5-GEU6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEU5-GEU6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEU5-GEU6MeanTurnValue": 0.0507736,
+    "treasuryCurveShortEV1GEM5-GEZ5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEM5-GEZ5Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEM5-GEZ5MeanTurnValue": 0.0847304,
+    "treasuryCurveShortEV1GEZ5-GEZ6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEZ5-GEZ6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEZ5-GEZ6MeanTurnValue": 0.0612544,
+    "treasuryCurveShortEV1GEH6-GEH7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEH6-GEH7Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEH6-GEH7MeanTurnValue": 0.0596127,
+    "treasuryCurveShortEV1GEU5-GEM6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEU5-GEM6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEU5-GEM6MeanTurnValue": 0.0578917,
+    "treasuryCurveShortEV1GEZ5-GEU6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEZ5-GEU6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEZ5-GEU6MeanTurnValue": 0.0709399,
+    "treasuryCurveShortEV1GEM6-GEH7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEM6-GEH7Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEM6-GEH7MeanTurnValue": 0.072227,
+    "treasuryCurveShortEV1GEM6-GEM7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEM6-GEM7Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEM6-GEM7MeanTurnValue": 0.0612673,
+    "treasuryCurveShortEV1GEU6-GEM7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEU6-GEM7Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEU6-GEM7MeanTurnValue": 0.0764609,
+    "treasuryCurveShortEV1GEU6-GEU7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEU6-GEU7Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEU6-GEU7MeanTurnValue": 0.052797,
+    "treasuryCurveShortEV1GEZ4-GEM5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEZ4-GEM5Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEZ4-GEM5MeanTurnValue": 0.0936984,
+    "treasuryCurveShortEV1GEH5-GEZ5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEH5-GEZ5Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEH5-GEZ5MeanTurnValue": 0.0551477,
+    "treasuryCurveShortEV1GEM5-GEU5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEM5-GEU5Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEM5-GEU5MeanTurnValue": 0.186051,
+    "treasuryCurveShortEV1GEU5-GEZ5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEU5-GEZ5Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEU5-GEZ5MeanTurnValue": 0.177883,
+    "treasuryCurveShortEV1GEH6-GEZ6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEH6-GEZ6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEH6-GEZ6MeanTurnValue": 0.0679561,
+    "treasuryCurveShortEV1GEZ5-GEM6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEZ5-GEM6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEZ5-GEM6MeanTurnValue": 0.104738,
+    "treasuryCurveShortEV1GEH6-GEU6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEH6-GEU6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEH6-GEU6MeanTurnValue": 0.123287,
+    "treasuryCurveShortEV1GEU6-GEH7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEU6-GEH7Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEU6-GEH7MeanTurnValue": 0.134016,
+    "treasuryCurveShortEV1GEZ6-GEM7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEZ6-GEM7Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEZ6-GEM7MeanTurnValue": 0.136054,
+    "treasuryCurveShortEV1GEM6-GEZ6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEM6-GEZ6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEM6-GEZ6MeanTurnValue": 0.117987,
+    "treasuryCurveShortEV1GEH5-GEM5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEH5-GEM5Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEH5-GEM5MeanTurnValue": 0.193012,
+    "treasuryCurveShortEV1GEM6-GEU6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEM6-GEU6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEM6-GEU6MeanTurnValue": 0.213013,
+    "treasuryCurveShortEV1GEH6-GEM6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEH6-GEM6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEH6-GEM6MeanTurnValue": 0.232968,
+    "treasuryCurveShortEV1GEU6-GEZ6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEU6-GEZ6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEU6-GEZ6MeanTurnValue": 0.254352,
+    "treasuryCurveShortEV1GEZ5-GEH6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalOTR2Y",
+        "SimpleMicroPriceSignalOTR3Y",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalOTR5Y",
+        "SimpleMicroPriceSignalOTR7Y",
+        "SimpleMicroPriceSignalZNZ4"
+    ],
+    "treasuryCurveShortEV1GEZ5-GEH6Weights": [
+        -0.411731,
+        -0.350089,
+        -0.261448,
+        -0.47156,
+        -0.331444,
+        -0.318913,
+        -0.453466
+    ],
+    "treasuryCurveShortEV1GEZ5-GEH6MeanTurnValue": 0.199047
+}

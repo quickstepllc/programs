@@ -1,0 +1,405 @@
+{
+    "treasuryFutureEV1GEH5-GEH6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEH5-GEH6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEH5-GEH6MeanTurnValue": 0.057526,
+    "treasuryFutureEV1GEM5-GEM6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEM5-GEM6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEM5-GEM6MeanTurnValue": 0.0580304,
+    "treasuryFutureEV1GEZ4-GEU5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEZ4-GEU5Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEZ4-GEU5MeanTurnValue": 0.0680135,
+    "treasuryFutureEV1GEZ4-GEZ5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEZ4-GEZ5Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEZ4-GEZ5MeanTurnValue": 0.059764,
+    "treasuryFutureEV1GEH5-GEU5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEH5-GEU5Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEH5-GEU5MeanTurnValue": 0.0968587,
+    "treasuryFutureEV1GEM5-GEH6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEM5-GEH6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEM5-GEH6MeanTurnValue": 0.0670302,
+    "treasuryFutureEV1GEU5-GEH6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEU5-GEH6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEU5-GEH6MeanTurnValue": 0.117802,
+    "treasuryFutureEV1GEU5-GEU6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEU5-GEU6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEU5-GEU6MeanTurnValue": 0.0638794,
+    "treasuryFutureEV1GEM5-GEZ5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEM5-GEZ5Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEM5-GEZ5MeanTurnValue": 0.105388,
+    "treasuryFutureEV1GEZ5-GEZ6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEZ5-GEZ6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEZ5-GEZ6MeanTurnValue": 0.0773501,
+    "treasuryFutureEV1GEH6-GEH7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEH6-GEH7Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEH6-GEH7MeanTurnValue": 0.0766123,
+    "treasuryFutureEV1GEU5-GEM6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEU5-GEM6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEU5-GEM6MeanTurnValue": 0.0734787,
+    "treasuryFutureEV1GEZ5-GEU6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEZ5-GEU6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEZ5-GEU6MeanTurnValue": 0.0895094,
+    "treasuryFutureEV1GEM6-GEH7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEM6-GEH7Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEM6-GEH7MeanTurnValue": 0.0922741,
+    "treasuryFutureEV1GEM6-GEM7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEM6-GEM7Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEM6-GEM7MeanTurnValue": 0.0783838,
+    "treasuryFutureEV1GEU6-GEM7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEU6-GEM7Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEU6-GEM7MeanTurnValue": 0.100072,
+    "treasuryFutureEV1GEU6-GEU7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEU6-GEU7Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEU6-GEU7MeanTurnValue": 0.0683547,
+    "treasuryFutureEV1GEH5-GEZ5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEH5-GEZ5Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEH5-GEZ5MeanTurnValue": 0.06881,
+    "treasuryFutureEV1GEM5-GEU5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEM5-GEU5Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEM5-GEU5MeanTurnValue": 0.224041,
+    "treasuryFutureEV1GEU5-GEZ5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEU5-GEZ5Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEU5-GEZ5MeanTurnValue": 0.218503,
+    "treasuryFutureEV1GEH6-GEZ6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEH6-GEZ6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEH6-GEZ6MeanTurnValue": 0.0860084,
+    "treasuryFutureEV1GEZ5-GEM6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEZ5-GEM6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEZ5-GEM6MeanTurnValue": 0.12877,
+    "treasuryFutureEV1GEH6-GEU6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEH6-GEU6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEH6-GEU6MeanTurnValue": 0.152313,
+    "treasuryFutureEV1GEU6-GEH7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEU6-GEH7Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEU6-GEH7MeanTurnValue": 0.173748,
+    "treasuryFutureEV1GEZ6-GEM7Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEZ6-GEM7Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEZ6-GEM7MeanTurnValue": 0.180665,
+    "treasuryFutureEV1GEM6-GEZ6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEM6-GEZ6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEM6-GEZ6MeanTurnValue": 0.157219,
+    "treasuryFutureEV1GEH5-GEM5Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEH5-GEM5Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEH5-GEM5MeanTurnValue": 0.227265,
+    "treasuryFutureEV1GEM6-GEU6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEM6-GEU6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEM6-GEU6MeanTurnValue": 0.277814,
+    "treasuryFutureEV1GEH6-GEM6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEH6-GEM6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEH6-GEM6MeanTurnValue": 0.296231,
+    "treasuryFutureEV1GEU6-GEZ6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEU6-GEZ6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEU6-GEZ6MeanTurnValue": 0.322386,
+    "treasuryFutureEV1GEZ5-GEH6Signals": [
+        "SimpleMicroPriceSignalZTZ4",
+        "SimpleMicroPriceSignalZFZ4",
+        "SimpleMicroPriceSignalZNZ4",
+        "SimpleMicroPriceSignalZBZ4"
+    ],
+    "treasuryFutureEV1GEZ5-GEH6Weights": [
+        -0.434633,
+        -0.531828,
+        -0.547189,
+        -0.478369
+    ],
+    "treasuryFutureEV1GEZ5-GEH6MeanTurnValue": 0.239051
+}
