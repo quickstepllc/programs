@@ -1,0 +1,2 @@
+{ "signalManagerPath": "d:\\historicaldata\\",
+   "marketDataPath":  "d:\\marketdata\\", "quoteDataPath":  "d:\\quotedata\\", "ttLogin": "JTRAN", "ttPassword": "tt", "cashEndpoint": "ESpeed"}

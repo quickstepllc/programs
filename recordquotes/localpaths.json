@@ -1,0 +1,10 @@
+{ "signalManagerPath": "d:\\repos\\programs\\broadcastquotes\\",
+    "historicalDataPath": "d:\\historicaldata\\",
+    "marketDataPath": "d:\\marketdata\\",
+    "quoteDataPath": "d:\\quotedata\\",
+    "ttLogin": "JTRAN",
+    "ttPassword": "tt",
+    "cashEndpoint": "ESpeed",
+    "managerPath": "d:\\repos\\programs\\broadcastquotes\\manager.json", 
+    "riskSettingsPath": "d:\\repos\\programs\\broadcastquotes\\risksettings.json"
+}
