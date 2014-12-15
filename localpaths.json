@@ -1,1 +1,11 @@
-{"historicalDataPath": "d:\\historicaldata\\", "marketDataPath":  "d:\\marketdata\\", "quoteDataPath":  "d:\\quotedata\\", "ttLogin": "JTRAN", "ttPassword": "tt", "cashEndpoint": "ESpeed"}
+{"signalManagerPath": "d:\\quickstepConfigFiles\\broadcastquotes\\",
+	"historicalDataPath": "d:\\historicaldata\\",
+ "marketDataPath":  "d:\\marketdata\\", 
+ "quoteDataPath":  "d:\\quotedata\\",
+ "ttLogin": "JTRAN",
+ "ttPassword": "tt",
+ "cashEndpoint": "ESpeed",
+ "managerPath": "d:\\quickstepConfigFiles\\broadcastquotes\\manager.json", 
+    "riskSettingsPath": "d:\\quickstepConfigFiles\\broadcastquotes\\risksettings.json",
+	"strategypath" : "d:\\quickstepConfigFiles\\broadcastquotes\\strategypath.json"
+	}
