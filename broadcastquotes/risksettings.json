@@ -1,4 +1,6 @@
-{ "maxMessages": 10, 
-"maxMessagesHard":  600, 
-"messageCountMillis":  30000
+{ "maxMessages": 100, 
+"maxMessagesHard":  150,
+    "messageCountMillis": 1000,
+    "maxTotalQuantity": 100, 
+    "maxTotalQuantityCountMillis":  1000
 }
